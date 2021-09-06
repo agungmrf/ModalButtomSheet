@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BottomSheet</string>
+    <string name="share">Share</string>
+    <string name="subscribe_on_my_channel">Subscribe on my channel</string>
+    <string name="agung_maruf">Agung Maruf</string>
+    <string name="subscribe">SUBSCRIBE</string>
+    <string name="share_channel">Share Channel</string>
+    <string name="enable_notifications">Enable Notifications</string>
+</resources>
